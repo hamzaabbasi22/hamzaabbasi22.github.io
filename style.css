@@ -1,0 +1,47 @@
+/* .test1{
+    width: 24%;
+    display: flex;
+    float: left;
+} */
+.test1 img {
+    width: 20%;
+    height: 54.6pc;
+    float: left;
+    display: flex;
+}
+.test2 {
+    background-color:black;
+    width: 82%;
+    text-align: left;
+    color: white;
+    padding: 3%;
+    
+}
+.test2 ul li{
+    display: inline;
+    margin: 2%;
+    text-align: left;
+    color: seagreen;
+}
+.test2 ul {
+    margin-left: -50px;
+}
+.test2 p {
+    margin: 3% 0;
+    color: grey;
+    margin-bottom: 20px;
+}
+
+.test3 ul li{
+    display: inline;
+    margin: 2%;
+    width: 24%;
+    
+}
+.test3 {
+    width: 34%;
+    background-color: black;
+    color: white;;
+    display: flex;
+    float: left;
+}
